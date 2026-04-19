@@ -1,0 +1,10 @@
+en
+zh-Hans
+zh-Hant
+ja
+ko
+fr
+de
+es
+it
+pt-BR

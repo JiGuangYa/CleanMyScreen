@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "A simple cleaning mode for your Mac display. Start a session to dim every connected screen to black so you can wipe it down without stray clicks.";
+"action.startCleaning" = "Start Cleaning";
+"accessibility.startCleaning" = "Start cleaning mode";
+"main.footerHint" = "Press Esc to return while cleaning. Move the pointer to reveal the Done button.";
+"accessibility.footerHint" = "Press Escape to return while cleaning. Move the pointer to reveal the Done button.";
+"hint.pressEsc" = "Press Esc to return";
+"accessibility.pressEsc" = "Press Escape to return";
+"action.done" = "Done";
+"accessibility.exitCleaning" = "Exit cleaning mode";
+"menu.cleaning" = "Cleaning";
+"menu.startCleaning" = "Start Cleaning";
+"menu.exitCleaning" = "Exit Cleaning";

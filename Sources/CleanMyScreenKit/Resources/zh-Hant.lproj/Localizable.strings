@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "適用於 Mac 顯示器的簡潔清潔模式。開始清潔後，所有已連接螢幕都會變黑，方便你擦拭螢幕而不誤觸。";
+"action.startCleaning" = "開始清潔";
+"accessibility.startCleaning" = "開始螢幕清潔模式";
+"main.footerHint" = "清潔時按 Esc 返回。移動指標即可顯示「完成」按鈕。";
+"accessibility.footerHint" = "清潔時按 Escape 返回。移動指標即可顯示「完成」按鈕。";
+"hint.pressEsc" = "按 Esc 返回";
+"accessibility.pressEsc" = "按 Escape 返回";
+"action.done" = "完成";
+"accessibility.exitCleaning" = "結束清潔模式";
+"menu.cleaning" = "清潔";
+"menu.startCleaning" = "開始清潔";
+"menu.exitCleaning" = "結束清潔";

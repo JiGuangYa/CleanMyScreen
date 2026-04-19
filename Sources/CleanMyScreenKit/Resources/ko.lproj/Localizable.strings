@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Mac 디스플레이를 위한 간단한 청소 모드입니다. 청소를 시작하면 연결된 모든 화면이 검게 바뀌어 화면을 닦는 동안 실수로 조작하지 않게 됩니다.";
+"action.startCleaning" = "청소 시작";
+"accessibility.startCleaning" = "화면 청소 모드 시작";
+"main.footerHint" = "청소 중에는 Esc 키를 눌러 돌아갈 수 있습니다. 포인터를 움직이면 \"완료\" 버튼이 나타납니다.";
+"accessibility.footerHint" = "청소 중에는 Escape 키를 눌러 돌아갈 수 있습니다. 포인터를 움직이면 \"완료\" 버튼이 나타납니다.";
+"hint.pressEsc" = "Esc 키로 돌아가기";
+"accessibility.pressEsc" = "Escape 키로 돌아가기";
+"action.done" = "완료";
+"accessibility.exitCleaning" = "청소 모드 종료";
+"menu.cleaning" = "청소";
+"menu.startCleaning" = "청소 시작";
+"menu.exitCleaning" = "청소 종료";

@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Mac ディスプレイ用のシンプルなクリーニングモードです。クリーニングを開始すると、接続中のすべての画面が黒くなり、誤操作せずに画面を拭けます。";
+"action.startCleaning" = "クリーニングを開始";
+"accessibility.startCleaning" = "画面クリーニングモードを開始";
+"main.footerHint" = "クリーニング中は Esc キーで戻れます。ポインタを動かすと「完了」ボタンが表示されます。";
+"accessibility.footerHint" = "クリーニング中は Escape キーで戻れます。ポインタを動かすと「完了」ボタンが表示されます。";
+"hint.pressEsc" = "Esc キーで戻る";
+"accessibility.pressEsc" = "Escape キーで戻る";
+"action.done" = "完了";
+"accessibility.exitCleaning" = "クリーニングモードを終了";
+"menu.cleaning" = "クリーニング";
+"menu.startCleaning" = "クリーニングを開始";
+"menu.exitCleaning" = "クリーニングを終了";

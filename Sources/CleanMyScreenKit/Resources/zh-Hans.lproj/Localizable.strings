@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "适用于 Mac 显示屏的简洁清洁模式。开始清洁后，所有已连接屏幕都会变黑，方便你擦拭屏幕而不误触。";
+"action.startCleaning" = "开始清洁";
+"accessibility.startCleaning" = "开始屏幕清洁模式";
+"main.footerHint" = "清洁时按 Esc 返回。移动指针即可显示“完成”按钮。";
+"accessibility.footerHint" = "清洁时按 Escape 返回。移动指针即可显示“完成”按钮。";
+"hint.pressEsc" = "按 Esc 返回";
+"accessibility.pressEsc" = "按 Escape 返回";
+"action.done" = "完成";
+"accessibility.exitCleaning" = "退出清洁模式";
+"menu.cleaning" = "清洁";
+"menu.startCleaning" = "开始清洁";
+"menu.exitCleaning" = "退出清洁";

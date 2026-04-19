@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Ein einfacher Reinigungsmodus für das Display deines Mac. Starte eine Sitzung, damit alle angeschlossenen Bildschirme schwarz werden und du sie ohne Fehlklicks reinigen kannst.";
+"action.startCleaning" = "Reinigung starten";
+"accessibility.startCleaning" = "Bildschirmreinigungsmodus starten";
+"main.footerHint" = "Während der Reinigung Esc drücken, um zurückzukehren. Bewege den Zeiger, um die Taste „Fertig“ einzublenden.";
+"accessibility.footerHint" = "Während der Reinigung Escape drücken, um zurückzukehren. Bewege den Zeiger, um die Taste „Fertig“ einzublenden.";
+"hint.pressEsc" = "Esc drücken, um zurückzukehren";
+"accessibility.pressEsc" = "Escape drücken, um zurückzukehren";
+"action.done" = "Fertig";
+"accessibility.exitCleaning" = "Reinigungsmodus beenden";
+"menu.cleaning" = "Reinigung";
+"menu.startCleaning" = "Reinigung starten";
+"menu.exitCleaning" = "Reinigung beenden";

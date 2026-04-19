@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Un modo de limpieza sencillo para la pantalla de tu Mac. Inicia una sesión para poner en negro todas las pantallas conectadas y limpiarlas sin clics accidentales.";
+"action.startCleaning" = "Iniciar limpieza";
+"accessibility.startCleaning" = "Iniciar el modo de limpieza de pantalla";
+"main.footerHint" = "Mientras limpias, pulsa Esc para volver. Mueve el puntero para mostrar el botón Listo.";
+"accessibility.footerHint" = "Mientras limpias, pulsa Escape para volver. Mueve el puntero para mostrar el botón Listo.";
+"hint.pressEsc" = "Pulsa Esc para volver";
+"accessibility.pressEsc" = "Pulsa Escape para volver";
+"action.done" = "Listo";
+"accessibility.exitCleaning" = "Salir del modo de limpieza";
+"menu.cleaning" = "Limpieza";
+"menu.startCleaning" = "Iniciar limpieza";
+"menu.exitCleaning" = "Salir de la limpieza";

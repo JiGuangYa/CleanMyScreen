@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Um modo de limpeza simples para a tela do seu Mac. Inicie uma sessão para escurecer todas as telas conectadas e limpá-las sem cliques acidentais.";
+"action.startCleaning" = "Iniciar limpeza";
+"accessibility.startCleaning" = "Iniciar o modo de limpeza da tela";
+"main.footerHint" = "Durante a limpeza, pressione Esc para voltar. Mova o ponteiro para mostrar o botão Concluir.";
+"accessibility.footerHint" = "Durante a limpeza, pressione Escape para voltar. Mova o ponteiro para mostrar o botão Concluir.";
+"hint.pressEsc" = "Pressione Esc para voltar";
+"accessibility.pressEsc" = "Pressione Escape para voltar";
+"action.done" = "Concluir";
+"accessibility.exitCleaning" = "Sair do modo de limpeza";
+"menu.cleaning" = "Limpeza";
+"menu.startCleaning" = "Iniciar limpeza";
+"menu.exitCleaning" = "Sair da limpeza";

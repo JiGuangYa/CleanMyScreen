@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Un mode de nettoyage simple pour l’écran de votre Mac. Démarrez une session pour noircir tous les écrans connectés afin de pouvoir les essuyer sans clic accidentel.";
+"action.startCleaning" = "Commencer le nettoyage";
+"accessibility.startCleaning" = "Démarrer le mode de nettoyage de l’écran";
+"main.footerHint" = "Pendant le nettoyage, appuyez sur Échap pour revenir. Déplacez le pointeur pour afficher le bouton Terminé.";
+"accessibility.footerHint" = "Pendant le nettoyage, appuyez sur la touche Échap pour revenir. Déplacez le pointeur pour afficher le bouton Terminé.";
+"hint.pressEsc" = "Appuyez sur Échap pour revenir";
+"accessibility.pressEsc" = "Appuyez sur la touche Échap pour revenir";
+"action.done" = "Terminé";
+"accessibility.exitCleaning" = "Quitter le mode de nettoyage";
+"menu.cleaning" = "Nettoyage";
+"menu.startCleaning" = "Commencer le nettoyage";
+"menu.exitCleaning" = "Quitter le mode de nettoyage";

@@ -1,0 +1,13 @@
+"app.title" = "CleanMyScreen";
+"main.subtitle" = "Una semplice modalità di pulizia per lo schermo del Mac. Avvia una sessione per oscurare in nero tutti gli schermi collegati e pulirli senza clic accidentali.";
+"action.startCleaning" = "Avvia pulizia";
+"accessibility.startCleaning" = "Avvia la modalità di pulizia dello schermo";
+"main.footerHint" = "Durante la pulizia, premi Esc per tornare. Muovi il puntatore per mostrare il pulsante Fine.";
+"accessibility.footerHint" = "Durante la pulizia, premi Escape per tornare. Muovi il puntatore per mostrare il pulsante Fine.";
+"hint.pressEsc" = "Premi Esc per tornare";
+"accessibility.pressEsc" = "Premi Escape per tornare";
+"action.done" = "Fine";
+"accessibility.exitCleaning" = "Esci dalla modalità di pulizia";
+"menu.cleaning" = "Pulizia";
+"menu.startCleaning" = "Avvia pulizia";
+"menu.exitCleaning" = "Esci dalla pulizia";
