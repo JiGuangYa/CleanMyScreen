@@ -1,16 +1,18 @@
 # CleanMyScreen
 
-CleanMyScreen is a native macOS utility app for cleaning a MacBook screen. It turns every connected display black, keeps accidental input away from the desktop, and lets you return with `Esc` or the on-screen `Done` button.
+[EN](./README.en.md)
 
-## Features
+CleanMyScreen 是一个原生 macOS 屏幕清洁工具，用于在清洁 MacBook 屏幕时将所有已连接显示器切换为黑屏，避免误触桌面或其他应用，并允许通过 `Esc` 或屏幕上的 `Done` 按钮快速返回。
 
-- Native macOS SwiftUI + AppKit app
-- Multi-display black screen cleaning mode
-- Automatic UI localization based on the macOS preferred language list
-- Localized UI support for English, Simplified Chinese, Traditional Chinese, Japanese, Korean, French, German, Spanish, Italian, and Brazilian Portuguese
-- Packaging script for `.app`, `.pkg`, `.dmg`, and `.zip`
+## 功能特性
 
-## Development
+- 原生 macOS `SwiftUI + AppKit` 应用
+- 多显示器黑屏清洁模式
+- 根据 macOS 首选语言列表自动切换界面语言
+- 已支持英文、简体中文、繁体中文、日文、韩文、法文、德文、西班牙文、意大利文、巴西葡萄牙文
+- 内置 `.app`、`.pkg`、`.dmg`、`.zip` 打包脚本
+
+## 开发
 
 ```bash
 swift build
@@ -18,10 +20,10 @@ swift run CleanMyScreenVerification
 swift run CleanMyScreen
 ```
 
-## Packaging
+## 打包
 
 ```bash
 ./scripts/package_release.sh
 ```
 
-Generated artifacts are written to `dist/`.
+生成的产物会输出到 `dist/` 目录。
